@@ -1,0 +1,71 @@
+<resources>
+
+
+
+    <string name="app_name">Just in 7 seconds</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+
+
+
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-2928097859559744/6341760117</string>
+
+    <string name="banner_ad_unit_id2">ca-app-pub-2928097859559744/6980888511</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="achievementSetText">I\'m sure you can do better!</string>
+    <string name="achievementHighScore">Your High Score: </string>
+    <string name="helpSetText">Math Quiz</string>
+    <string name="helpContentText">You have 7 seconds for each question. Be quick to solve questions and do your best. Good luck!</string>
+    <string name="exitToast">Please click BACK again to exit</string>
+    <string name="aboutUsSetText">About Us</string>
+    <string name="aboutUsContentText">Visit our developer page in Google play and have more our beautiful apps!</string>
+
+
+
+    <string name="mainExitText">Exit Game?</string>
+    <string name="mainExitContent">Are you sure you want to exit?</string>
+    <string name="cancelText">Yes</string>
+    <string name="confirmText">No</string>
+    <string name="createDialogFirst">Your score is: </string>
+    <string name="createDialogSecond">Highscore is: </string>
+    <string name="timeSetText">Time Left: </string>
+    <string name="timeFinish">Time Up!</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="playaganin">Play Again</string>
+    <string name="score">Your score is: </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

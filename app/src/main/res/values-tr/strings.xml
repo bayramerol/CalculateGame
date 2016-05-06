@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">7 Saniyede Zeka Geliştirici</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-2928097859559744/6341760117</string>
+
+    <string name="banner_ad_unit_id2">ca-app-pub-2928097859559744/6980888511</string>
+
+
+    <string name="achievementSetText">Pes etme! Daha iyisini yap!</string>
+    <string name="achievementHighScore">En Yüksek Skorun: </string>
+    <string name="helpSetText">Matematik Quiz</string>
+    <string name="helpContentText">Her bir soru için sadece 7 saniyen var. Hadi çabuk ol ve elinden gelenin en iyisini yap!</string>
+    <string name="exitToast">Lütfen çıkmak için GERİ tuşuna 2 kere basın. Tekrar uğramayı unutma :)</string>
+    <string name="aboutUsSetText">Hakkımızda</string>
+    <string name="aboutUsContentText">Geliştirimizi sayfamızı ziyaret ederek daha fazla uygulamamıza sahip olabilirsiniz</string>
+
+
+
+    <string name="mainExitText">Oops!</string>
+    <string name="mainExitContent">Oyundan çıkmak istiyor musunuz?</string>
+    <string name="cancelText">Evet</string>
+    <string name="confirmText">Hayır</string>
+    <string name="createDialogFirst">Puanın: </string>
+    <string name="createDialogSecond">En yüksek puanın: </string>
+    <string name="timeSetText">Kalan Süre: </string>
+    <string name="timeFinish">Süre Doldu!</string>
+    <string name="mainMenu">Ana Menü</string>
+    <string name="playaganin">Tekrar Oyna</string>
+    <string name="score">Puanın: </string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
